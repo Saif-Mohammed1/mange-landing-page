@@ -4,7 +4,7 @@
 ![]("./src/assets/images/mangeLandingPage.png")
 
 - Solution URL: [Solution](https://github.com/Saif-Mohammed1/mange-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://beamish-sunshine-e28ad1.netlify.app/)
 
 ### Built with
 
