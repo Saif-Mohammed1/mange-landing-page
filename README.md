@@ -15,6 +15,7 @@
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
+- FontAwesomeIcon
 
 - Website - [Saif](https://www.frontendmentor.io/profile/Saif-Mohammed1)
 - Frontend Mentor - [@Saif-Mohammed1](https://www.frontendmentor.io/profile/Saif-Mohammed1)
