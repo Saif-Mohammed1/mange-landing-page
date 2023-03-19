@@ -14,7 +14,7 @@ export const Elements = styled.div`
   padding: 20px;
   text-align: center;
   margin: 40px 20px;
-  flex: 1 0 300px;
+  flex: 1 0 200px;
 `;
 export const Client = styled.img`
   width: 69px;

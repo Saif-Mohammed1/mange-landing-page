@@ -1,4 +1,4 @@
-import { ReactComponent as Illustration } from "../../assets/images/illustration-intro.svg";
+import Illustration from "../../assets/images/illustration-intro.svg";
 import {
   Head,
   HeaderContainer,
@@ -18,7 +18,8 @@ const PageHeader = () => {
         <Button> Get Started</Button>
       </Header>
       <div>
-        <Illustration />
+        <img src={Illustration} alt="Illustration" />
+        {/* <Illustration /> */}
       </div>
       <Header>
         <h1> What’s different about Manage?</h1>
